@@ -1,0 +1,226 @@
+temp/slidingLetters/BoardTest.java:13: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:13: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:29: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:29: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:35: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:35: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:36: error: cannot find symbol
+        board.shift(Direction.RIGHT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:37: error: cannot find symbol
+        board.shift(Direction.LEFT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:43: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:43: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:44: error: cannot find symbol
+        board.shift(Direction.RIGHT, 0);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:50: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:50: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:51: error: cannot find symbol
+        board.shift(Direction.RIGHT, -2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:57: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:57: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:58: error: cannot find symbol
+        board.shift(Direction.RIGHT, 8);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:70: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:70: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:71: error: cannot find symbol
+        board.shift(Direction.LEFT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:77: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:77: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:78: error: cannot find symbol
+        board.shift(Direction.RIGHT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:90: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:90: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:91: error: cannot find symbol
+        board.shift(Direction.RIGHT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:92: error: cannot find symbol
+        board.shift(Direction.DOWN, 3);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:103: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:103: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:104: error: cannot find symbol
+        board.shift(Direction.RIGHT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:105: error: cannot find symbol
+        board.shift(Direction.DOWN, 3);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:106: error: cannot find symbol
+        board.shift(Direction.LEFT, 4);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:117: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:117: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:118: error: cannot find symbol
+        board.shift(Direction.RIGHT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:119: error: cannot find symbol
+        board.shift(Direction.DOWN, 3);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:120: error: cannot find symbol
+        board.shift(Direction.LEFT, 4);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/BoardTest.java:121: error: cannot find symbol
+        board.shift(Direction.UP, 3);
+                    ^
+  symbol:   variable Direction
+  location: class BoardTest
+temp/slidingLetters/Main.java:7: error: cannot find symbol
+        Board board = new Board(5);
+        ^
+  symbol:   class Board
+  location: class Main
+temp/slidingLetters/Main.java:7: error: cannot find symbol
+        Board board = new Board(5);
+                          ^
+  symbol:   class Board
+  location: class Main
+temp/slidingLetters/Main.java:14: error: cannot find symbol
+        board.shift(Direction.RIGHT, 2);
+                    ^
+  symbol:   variable Direction
+  location: class Main
+temp/slidingLetters/Main.java:19: error: cannot find symbol
+        board.shift(Direction.DOWN, 3);
+                    ^
+  symbol:   variable Direction
+  location: class Main
+temp/slidingLetters/Main.java:25: error: cannot find symbol
+        Direction directions[] = Direction.values();
+        ^
+  symbol:   class Direction
+  location: class Main
+temp/slidingLetters/Main.java:25: error: cannot find symbol
+        Direction directions[] = Direction.values();
+                                 ^
+  symbol:   variable Direction
+  location: class Main
+temp/slidingLetters/Main.java:29: error: cannot find symbol
+            Direction direction = directions[random.nextInt(directions.length)];
+            ^
+  symbol:   class Direction
+  location: class Main
+45 errors

@@ -1,0 +1,31 @@
+temp/numbergame/FabulousSecretFinder.java:11: error: FabulousSecretFinder is not abstract and does not override abstract method makeAGuess() in SecretFinder
+public class FabulousSecretFinder extends SecretFinder {
+       ^
+temp/numbergame/FabulousSecretFinder.java:28: error: makeAGuess() in FabulousSecretFinder cannot override makeAGuess() in SecretFinder
+    protected int makeAGuess() {
+                  ^
+  return type int is not compatible with Number
+temp/numbergame/FabulousSecretFinder.java:27: error: method does not override or implement a method from a supertype
+    @Override
+    ^
+temp/numbergame/FabulousSecretFinder.java:37: error: cannot find symbol
+        while (!secretKeeper.isValidNumber(guess)) {
+                            ^
+  symbol:   method isValidNumber(int)
+  location: variable secretKeeper of type SecretKeeper
+temp/numbergame/FabulousSecretFinder.java:80: error: cannot find symbol
+                    if (secretKeeper.isValidNumber(i)) {
+                                    ^
+  symbol:   method isValidNumber(int)
+  location: variable secretKeeper of type SecretKeeper
+temp/numbergame/FabulousSecretFinder.java:89: error: cannot find symbol
+                    if (secretKeeper.isValidNumber(i)) {
+                                    ^
+  symbol:   method isValidNumber(int)
+  location: variable secretKeeper of type SecretKeeper
+temp/numbergame/FabulousSecretFinder.java:97: error: cannot find symbol
+                    if (secretKeeper.isValidNumber(i)) {
+                                    ^
+  symbol:   method isValidNumber(int)
+  location: variable secretKeeper of type SecretKeeper
+7 errors
